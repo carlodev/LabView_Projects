@@ -112,7 +112,7 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="Main_camera_2.vi" Type="VI" URL="../Main_camera_2.vi"/>
-		<Item Name="Write_camera_csv.vi" Type="VI" URL="../Write_camera_csv.vi"/>
+		<Item Name="Write_image_csv.vi" Type="VI" URL="../Write_image_csv.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
